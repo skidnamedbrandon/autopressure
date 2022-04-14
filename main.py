@@ -7,7 +7,7 @@ import os
 import getpass
 client = commands.Bot(command_prefix=commands.when_mentioned_or("$"))
 
-os.system(f'cls & mode 85,20 & title PHAZIFY AUTOPRESSER')
+os.system(f'cls & mode 85,20 & title DTAHNG AUTOPRESSER')
 user = input("Name: ")
 print(f'''{Fore.GREEN}
  _    __   __    __   ______   ________  ______  ________  __      __ 
@@ -19,12 +19,12 @@ print(f'''{Fore.GREEN}
 | $$      | $$  | $$| $$  | $$ /  $$___  _| $$_ | $$          | $$    
 | $$      | $$  | $$| $$  | $$|  $$    \|   $$ \| $$          | $$    
  \$$       \$$   \$$ \$$   \$$ \$$$$$$$$ \$$$$$$ \$$           \$$    
-             ___________LOGGED IN AS: {user}___________                                             
-                       P1 X PHAZIFY MADE THIS
+             ___________LOGGED IN AS: {BRANDON#1600}___________                                             
+                       P2 X DTHANG MADE THIS
                                                                                     
         ''' + Fore.GREEN)
 
-token = input("Enter token: ")
+token = input("ODI4MzgyMzE1ODMwODM3MzYw.YlT61A.BwlM1LN8Rs2SqBrV_etxT-xcKuY: ")
 sex = input("Keyword: ")
 print("READY TO RAPE BLACKS")
 ###### CODEZZZZZ#######
@@ -34,7 +34,7 @@ async def on_message(message):
     print("BITCH GOT RAPED:",message.content)
     if message.content.endswith(sex):
 
-        await message.channel.send('FATHER HAS ARRIVED PHAZIFYW 4ORZIW COME PACK')
+        await message.channel.send('FATHER HAS ARRIVED DTHANGW BRANDONW COME PACK')
         await message.channel.send('GIMME YOUR MOMS THROAT')
         await message.channel.send('🔪🔪🔪🔪🔪🔪🔪🔪🔪🔪🔪🔪🔪🔪🔪🔪🔪🔪🔪')
         await message.channel.send('YOUR GRANDFATHER GOT GASSED IN THE GAS CHAMPER')
@@ -42,8 +42,8 @@ async def on_message(message):
         await message.channel.send('YOUR DAD GOT 360 NOSCOPED IN THE WW2 WEAK FUCK')
         await message.channel.send('YOUR MOM DEEPTHROAT SUCKED MY BALLS SHITTER')
         await message.channel.send('YOUR ABUSIVE DAD PUT A LATE ABORTION ON YOU')
-        await message.channel.send('PHAZIFY ONTOP')
-        await message.channel.send('PHAZIFY ONTOP')
+        await message.channel.send('BRANDON ONTOP')
+        await message.channel.send('DTHANG ONTOP')
         await message.channel.send('U FUCKED UR MOM ANAL AND SHE FARTED IN YO FACE')
         await message.channel.send('FUCK UP ED SHEERAN LOOKING ASS GINGERBREAD')
         await message.channel.send('YOUR MOMS ASS HAS SO MUCH RADIOACTIVE POISON')
@@ -88,10 +88,10 @@ async def on_message(message):
         await message.channel.send('I PUT BLACKWORK TATTOOD ON YOUR BACK')
         await message.channel.send('WORK ON MY PLANTATION BLACK FUCK')
         await message.channel.send('STOP BEATBOXING WITH YOUR MOMS VOICEBOX')
-        await message.channel.send('4ORZI ONTOP')
-        await message.channel.send('4ORZI ONTOP')
-        await message.channel.send('4ORZI ONTOP')
-        await message.channel.send('4ORZI ONTOP')
+        await message.channel.send('SYFT ONTOP')
+        await message.channel.send('ANTHEM ONTOP')
+        await message.channel.send('BRANDON ONTOP')
+        await message.channel.send('DTHANG ONTOP')
         await message.channel.send('YOUR MOM IS DIAGNOSED WITH BREAST CANCER')
         await message.channel.send('ILL SPOIL UP YOUR SISTER FAGGOT')
         await message.channel.send('U SUCK')
@@ -179,7 +179,7 @@ async def on_message(message):
         await message.channel.send('SURRENDER YOU CANT OUTLAST ME LMAO')
         await message.channel.send('WEAK MUTUALS LOLOLOLOLO')
         await message.channel.send('WHATCHU FINNA DO SLAP ME W A TISSUE')
-        await message.channel.send('PHAZIFY OWNS YOU LOOL')
+        await message.channel.send('DTHANG OWNS YOU LOOL')
         await message.channel.send('I OWN YOU FAGGOT')
         await message.channel.send('TRY XRAY VISION WEAK FUCK')
         await message.channel.send('ASSASSIN WANNA BE LOOOOLLOOOL TROLL')
